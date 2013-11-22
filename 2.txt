@@ -1,0 +1,44 @@
+Related software
+Screenshot of hgk in action
+Screenshot of TortoiseHg client history
+Example:
+
+    GUI interfaces for Mercurial include:
+
+    Hgk (tcl/tk) -----*** ------
+        This is implemented as a Mercurial extension, and is part of the official version. This viewer displays the directed acyclic graph of the changesets of a Mercurial repository. This viewer can be invoked via the command hg view, if the extension is enabled. hgk was originally based on a similar tool for Git called gitk. There is an hgk replacement named hgview that is written in pure Python and provides both gtk and qt interfaces.
+    TortoiseHg
+        TortoiseHg is a shell extension and a series of applications for the Mercurial distributed revision control system. It is available for Windows Explorer and GNOME Nautilus.
+    Murky
+        A Mac OS X GUI in Objective-C 2.0, runs on Mac OS X 10.5 and later.
+    MacMercurial
+        A Mac OS X GUI "not intended to completely replace command line use of Mercurial, only to ease the most common Mercurial operations," for Mac OS X 10.4 or later.
+    MacHg
+        MacHg is a free and fast multithreaded front end for Mac OS X 10.6 and later.
+    SourceTree
+        A freeware Mac OS X and Windows GUI client that works with both Mercurial and Git.
+    hgtui
+        A freeware TUI client for Linux and Windows (using cygwin).
+The series has won ten Primetime Emmy Awards, including three consecutive wins for Best
+ Actor for Cranston, two wins for Best Supporting Actor for Paul, a Best Supporting 
+Actress win for Anna Gunn, and the Outstanding Drama Series in 2013, after three 
+nominations. The series has been nominated for a Golden Globe Award for Best Television
+ Series – Drama and Cranston three times for Best Actor, besides being nominated four times for a Screen 
+Actor
+    Related tools for merging include (h)gct (Qt) and Meld.
+    The convert extension allows import from CVS, Darcs, Git, GNU Arch, Monotone, Perforce, Bazaar and Subversion repositories.
+
+Preparando el lanzamiento de su nueva consola, Microsoft ha publicado Xbox One
+Como vemos, esta aplicación vendría a ser un reemplazo para aquellos usuarios que 
+todavía no se sienten cómodos con el control por voz, pudiendo utilizar nuestro smartphone 
+para buscar contenido, navegar y escribir en cualquier menú, etc. Puede ser una buena
+ solución si hay más gente en tu casa y, por cualquier motivo, no quieres molestarlos 
+o que escuchen tu voz enumerando acciones o dictando mensajes.
+ SmartGlass, una revisión de la aplicación que ya conocíamos, añadiendo nuevas opciones
+ y aprovechando las posibilidades que ofrece la nueva Xbox. Con la nueva versión de la
+ aplicación, podremos convertir nuestro smartphone en un control remoto, pudiendo
+ controlar la consola desde el mismo.
+
+    Microsoft Visual Studio supports Mercurial with the VisualHG and HgSccPackage plugins.
+    NetBeans supports Mercurial from Version 6.
+

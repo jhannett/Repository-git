@@ -1,0 +1,34 @@
+/*-------------------------------*/
+Mercurial
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+This article is about the revision control software. For the metallic element after which it is named, see Mercury (element). For the unrelated corporation, see Mercurial Communications.
+Mercurial
+Se trata de una nueva versión de la aplicación que ya conocíamos para la Xbox 360, la cual nos permitía controlar de forma remota nuestra videoconsola. Se repite la misma apuesta pero se añaden funcionalidades que aprovechan las nueva funciones incluidas en la nueva consola de Microsoft.
+
+Mientras estamos jugando podemos hacer uso de Snap, trayendo en un lateral 
+una nueva ventana que nos muestra simultáneamente más contenido: redes sociales, 
+una página web, etc. Esta interfaz, heredada de Windows 8, se puede activar mediante 
+comandos de voz, aunque si lo prefieres, Xbox One SmartGlass te permite que lo hagas 
+directamente desde tu smartphone.
+ial New Mercurial logo.svg
+Developer(s) 	Matt Mackall
+Initial release 	19 April 2005[1]
+Stable release 	2.8[2] / 1 November 2013
+Written in 	Python and C
+aqui modifico aumentando una linea
+
+Capcom nos trae el regreso de una de sus franquicias más populares en los últimos años. Llena de acción, muchas armas e incontables zombies. Esta vez, Dead Rising 3 ofrece al jugador un mundo abierto que prometen es más grande que la combinación de los mapas combinados de las dos entregas. Además, gracias al gran potencial de Xbox One el juego permite contar con muchos más zombies en pantalla al mismo tiempo que antes, lo que supone todo un reto, obviamente. Un survival horror que ofrece al jugador la posibilidad de masacrar a sus enemigos usando no solo un enorme número de armas, sino las que construyamos nosotros mismos, lo que ya es tradición esta saga épica.
+
+Operating system 	Unix-like, Windows, Mac OS X
+Type 	Revision control
+License 	GNU GPL v2+
+Website 	mercurial.selenic.com
+
+Mercurial is a cross-platform, distributed revision control tool for software developers. It is mainly implemented using the Python programming language, but includes a binary diff implementation written in C. It is supported on Windows and Unix-like systems, such as FreeBSD, Mac OS X and Linux. Mercurial is primarily a command line program but graphical user interface extensions are available. All of Mercurial's operations are invoked as arguments to its driver program hg, a reference to the chemical symbol of the element mercury.
+
+Mercurial's major design goals include high performance and scalability, decentralized, fully distributed collaborative development, robust handling of both plain text and binary files, and advanced branching and merging capabilities, while remaining conceptually simple.[3] It includes an integrated web interface. Mercurial has also taken steps to ease the transition for SVN users.
+
+The creator and lead developer ----------// of Mercurial is Matt Mackall. Mercurial is released as free software under the terms of the GNU GPL v2 (or any later version[4]).
+
+The end

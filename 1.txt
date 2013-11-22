@@ -1,0 +1,36 @@
+Technical information
+
+Mercurial uses SHA-1 hashes to identify revisions. For repository access via a network, Mercurial uses an HTTP-based protocol that seeks to reduce round-trip requests, new connections and data transferred. Mercurial can also work over ssh where the protocol is very similar to the HTTP-based protocol. By default it uses a 3-way merge before calling external merge tools.
+History
+
+Mackall first announced Mercurial on 19 April 2005.[1] The impetus for this was the announcement earlier that month by Bitmover that they were withdrawing the free version of BitKeeper.
+
+BitKeeper had been used for the version control requirements of the Linux kernel project. Mackall decided to write a distributed version control system as a replacement for use with the Linux kernel. This project started a few days after another project called Git, initiated by Linus Torvalds with similar aims.[5]
+
+The Linux kernel project decided to use Git rather than Mercurial, but Mercurial is now used by many other projects (see below).
+
+In an answer on the Mercurial mailing list, Matt Mackall explained how the name "Mercurial" was chosen:[6]
+
+
+ jhgdn Breaking Bad is an American crime drama television series created and produced by 
+Vince Gilligan. Set and produced in Albuquerque, New Mexico, Breaking Bad is the 
+two-year-long story of Walter White (Bryan Cranston), a struggling high school chemistry 
+teacher who is diagnosed with inoperable lung cancer at the beginning of the series. 
+He turns to a life of crime, producing and selling methamphetamine, in order to secure 
+Además, podremos acceder en todo momento a nuestra cuenta de Xbox Live y consultar 
+los logros que hemos obtenido, ver la lista de amigos, mensajes, etc. pudiendo acceder
+ a la comunidad cuando no estemos en casa o cerca de la consola. Microsoft quiere ir
+ preparando el terreno para al lanzamiento inminente de la Xbox One (próximo 22 de
+ noviembre). Todos aquellos que tengáis pensado comprarla ya podéis descargar 
+gratuitamente la aplicación para vuestros dispositivos móviles con Windows Phone, 
+iOS y Android.
+his family's financial future before he dies,[7] teaming with his former student, 
+Jesse Pinkman (Aaron Paul). The series has been labeled a contemporary western by its 
+creator.[2]
+
+Init    Shortly before the first release, I read an article about the ongoing Bitkeeper debacle that described Larry McVoy as mercurial (in the sense of 'fickle'). Given the multiple meanings, the convenient abbreviation, and the good fit with my pre-existing naming scheme (see my email address), it clicked instantly. Mercurial is thus named in Larry's honor. I do not know if the same is true of Git.
+
+Usage
+
+Microsoft ha publicado Xbox One SmartGlass, una aplicación para Windows Phone,
+ iOS y Android que sirve de control remoto para la nueva videoconsola.
